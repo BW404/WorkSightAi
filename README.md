@@ -31,11 +31,11 @@ To install WorkSightAI, clone this repository and install the required dependenc
 ```
 bashVerifyOpen In EditorEditCopy code
 1# Clone the repository
-2git clone https://github.com/BW404/WorkSightAI.git
-3cd WorkSightAI
-4
-5# Install dependencies
-6pip install -r requirements.txt
+    git clone https://github.com/BW404/WorkSightAI.git
+2#
+    cd WorkSightAI
+3# Install dependencies
+    pip install -r requirements.txt
 
 ```
 
