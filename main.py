@@ -5,7 +5,7 @@ from datetime import datetime
 torch.set_num_threads(torch.get_num_threads())
 
 # Load YOLOv5 model from torch hub
-model = torch.hub.load('ultralytics/yolov5', 'yolov5m', pretrained=True)
+model = torch.hub.load('ultralytics/yolov5', 'yolov5m', pretrained=True)  #Chnage model here.
 
 def send_alert(message):
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
