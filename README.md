@@ -1,6 +1,6 @@
 # **WorkSightAI**
 
-WorkSightAI is an advanced object detection solution built on the YOLOv5 architecture. This repository provides tools for training, testing, and deploying object detection models tailored for workplace monitoring and safety applications. The system is designed to identify and alert on specific behaviors, such as the use of mobile phones in restricted areas.
+WorkSightAI is an advanced object detection solution built on the YOLOv5 architecture. This repository provides tools for training, testing, and deploying object detection models tailored for workplace monitoring and safety applications. The system is designed to identify and alert on specific behaviors, such as the use of mobile phones in workspace.
 
 ## **Table of Contents**
 
