@@ -7,14 +7,7 @@ WorkSightAI is an advanced object detection solution built on the YOLOv5 archite
 - **Features**
 - **Installation**
 - **Usage**
-    - **Training**
-    - **Testing**
-    - **Inference**
-- **Datasets**
-- **Model Architecture**
-- **Results**
-- **Contributing**
-- **License**
+
 
 ## **Features**
 
